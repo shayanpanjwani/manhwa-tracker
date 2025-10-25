@@ -224,3 +224,7 @@ frontend/yarn-error.log*
 # OS
 .DS_Store
 Thumbs.db
+
+# SQLite database
+backend/*.db
+backend/*.db-journal
